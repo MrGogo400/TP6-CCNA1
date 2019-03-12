@@ -31,10 +31,6 @@ Petit lab simple pour comprendre le concept.
 
 ### 1. Présentation du lab et contexte
 
-Notre labo aura cette forme; avec une infrastructure de 5 routeurs, 2 clients et 1 serveur)
-
-![maptp6](https://github.com/Genisys33/CCNA/blob/master/Image-Tp2/mapTP6.png)
-
 Nous avons fait nos addressages Ip suivant ce format : 
 
 Machines | `10.6.100.0/30` | `10.6.100.4/30` | `10.6.100.8/30` | `10.6.100.12/30` | `10.6.101.0/30` | `10.6.201.0/24` | `10.6.202.0/24`
@@ -84,5 +80,5 @@ Router3:
 
 # Aller plus loin
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTQ4MTgzMzddfQ==
+eyJoaXN0b3J5IjpbLTE1MTkzMjM4NDldfQ==
 -->
